@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\epita\UnityProjects\ClassroomGame\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="453f7ef63f34c4cfc7c6e10ab39c61f637b7855c">
+        <dex dex="C:\Users\epita\UnityProjects\ClassroomGame\Temp\gradleOut\build\intermediates\pre-dexed\release\unity-classes_61fa8be6c3abb67a124707e794c628245fbbddc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\epita\UnityProjects\ClassroomGame\Temp\gradleOut\libs\libprotobuf-java-nano.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="fcd53f117550c58490f29c2e27afca051626260d">
+        <dex dex="C:\Users\epita\UnityProjects\ClassroomGame\Temp\gradleOut\build\intermediates\pre-dexed\release\libprotobuf-java-nano_f755b28b3a732e3339cdba207e970b5d3c6e488e.jar" />
+    </item>
+
+</items>
